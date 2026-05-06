@@ -1,0 +1,1 @@
+SCAN_PATH = "./test_files"
